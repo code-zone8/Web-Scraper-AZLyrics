@@ -1,3 +1,3 @@
 # Web-Scraper-AZLyrics
-This software application was created to build dataset for further practice in text and time series analysis. It was used to web-scrape data from the popular website AZLyrics.com <br>
-The collected dataset contains over 34K songs (artist, title, year of recording, url of lyrics, and the lyrics) recorded between 1952 and 2022 by artists whose name starts with letter H. The final dataset can be accessed on [Kaggle](https://www.kaggle.com/datasets/marzenah/azlyrics-recorded-songs-with-lyrics).
+This software application was created in Jupyter notebook using Python (BeautifulSoup, Pandas, and other packages). The purpose was to web scrape data from AZLyrics.com to build data collection for further practice in NLP and time series analysis.  <br>
+The final dataset contains data on over 34K song recordings (artist name, title, year of recording, url of lyrics, and the lyrics) recorded between 1952 and 2022 by artists whose names start with letter "H". It can be accessed and downloaded on [Kaggle](https://www.kaggle.com/datasets/marzenah/azlyrics-recorded-songs-with-lyrics).
